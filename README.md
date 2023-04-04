@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Michał. I am fascinated by new technologies and how they change our everyday life. I work as a Head of Emerging Technologies at Objectivity and am responsible for introducing cutting-edge technologies in clients' organisations. 
+
+Right now, my main point of interest is ⚛️quantum computing. I am focusing on defining areas where this technology can be used and deliver value. In most cases, those areas are related to optimisation and combinatorial challenges. 
+
+This is where I share my open source projects and experiment by testing their limits.
+
+🔗 &nbsp;**Connect with me**
+
 <!--
 **MichalJankowskii/MichalJankowskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MichalJankowskii's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalJankowskii)](https://github.com/MichalJankowskii/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalJankowskii)](https://github.com/MichalJankowskii/github-readme-stats)
