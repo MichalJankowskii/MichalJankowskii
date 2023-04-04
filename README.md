@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalJankowskii&repo=Moq.EntityFrameworkCore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalJankowskii&theme=dark&hide=jupyter%20notebook)](https://github.com/MichalJankowskii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalJankowskii&theme=dark&hide=jupyter%20notebook&layout=compact)](https://github.com/MichalJankowskii)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalJankowskii&show_icons=true&theme=dark)](https://github.com/MichalJankowskii)
