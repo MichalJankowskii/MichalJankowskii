@@ -6,24 +6,24 @@ Right now, my main point of interest is ⚛️quantum computing. I am focusing o
 
 This is where I share my open source projects and experiment by testing their limits.
 
-🔗 &nbsp;**Connect with me**
+---
 
-<!--
-**MichalJankowskii/MichalJankowskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Connect with me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-MichalMJankowski-0e76a8)](https://www.linkedin.com/in/michalmjankowski/)
+- [![Blog](https://img.shields.io/badge/Blog-jankowskimichal.pl-lightgrey)](https://www.jankowskimichal.pl/en/)
+- [![Medium](https://img.shields.io/badge/Medium-@jankowskimichal-444443)](https://medium.com/@jankowskimichal)
+- [![Mail](https://img.shields.io/badge/Mail-mail@jankowskimichal.pl-lightgrey)](mailto:mail@jankowskimichal.pl)
+- [![Twitter](https://img.shields.io/badge/Twitter-@JankowskiMichal-1DA1F2)](https://twitter.com/JankowskiMichal)
+- [![Instagram](https://img.shields.io/badge/Instagram-jankowskimm-FD1D1D)]([https://www.instagram.com/jankowskimm/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Selected projects
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalJankowskii&repo=Moq.EntityFrameworkCore&theme=dark)](https://github.com/MichalJankowskii/Moq.EntityFrameworkCore) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalJankowskii&repo=FluentValidation.Validators.UnitTestExtension&theme=dark)](https://github.com/MichalJankowskii/FluentValidation.Validators.UnitTestExtension) |
+| --- | --- |
+| [![Build Status](https://dev.azure.com/OpenSource-jankowskimichalpl/Moq.EntityFrameworkCore/_apis/build/status/MichalJankowskii.Moq.EntityFrameworkCore?branchName=master)](https://dev.azure.com/OpenSource-jankowskimichalpl/Moq.EntityFrameworkCore/_build/latest?definitionId=1&branchName=master) [![Downloads](https://img.shields.io/nuget/dt/Moq.EntityFrameworkCore.svg)](https://www.nuget.org/packages/Moq.EntityFrameworkCore/) | [![Build Status](https://dev.azure.com/OpenSource-jankowskimichalpl/FluentValidation.Validators.UnitTestExtension/_apis/build/status/MichalJankowskii.FluentValidation.Validators.UnitTestExtension?branchName=master)](https://dev.azure.com/OpenSource-jankowskimichalpl/FluentValidation.Validators.UnitTestExtension/_build/latest?definitionId=2&branchName=master) [![Downloads](https://img.shields.io/nuget/dt/FluentValidation.Validators.UnitTestExtension.svg)](https://github.com/MichalJankowskii/FluentValidation.Validators.UnitTestExtension) |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalJankowskii&repo=Moq.EntityFrameworkCore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalJankowskii&theme=dark&hide=jupyter%20notebook&layout=compact)](https://github.com/MichalJankowskii)
 
