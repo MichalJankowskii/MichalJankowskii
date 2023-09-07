@@ -11,10 +11,8 @@ This is where I share my open source projects and experiment by testing their li
 ### 🔗 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-MichalMJankowski-0e76a8)](https://www.linkedin.com/in/michalmjankowski/)
 - [![Blog](https://img.shields.io/badge/Blog-jankowskimichal.pl-lightgrey)](https://www.jankowskimichal.pl/en/)
-- [![Medium](https://img.shields.io/badge/Medium-@jankowskimichal-444443)](https://medium.com/@jankowskimichal)
 - [![Mail](https://img.shields.io/badge/Mail-mail@jankowskimichal.pl-lightgrey)](mailto:mail@jankowskimichal.pl)
 - [![Twitter](https://img.shields.io/badge/Twitter-@JankowskiMichal-1DA1F2)](https://twitter.com/JankowskiMichal)
-- [![Instagram](https://img.shields.io/badge/Instagram-jankowskimm-FD1D1D)]([https://www.instagram.com/jankowskimm/)
 
 ---
 
